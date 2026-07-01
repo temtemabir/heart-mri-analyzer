@@ -38,18 +38,7 @@ It combines mobile development, cloud services, and machine learning to provide 
 - Firebase Authentication
 - Cloud Firestore
 - Firebase Storage
-
-
----
-
-## 📸 Screenshots
-
-- Login Screen
-- Home Screen
-- MRI Upload Screen
-- Analysis Result Screen
-- Profile Screen
-
+  
 ---
 
 ## 🎯 Objectives
